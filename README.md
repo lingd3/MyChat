@@ -1,2 +1,2 @@
 # MyChat
-使用Java和WebSocket实现网页聊天室
+socket学习：Java实现网页聊天室

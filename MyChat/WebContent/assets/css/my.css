@@ -1,0 +1,9 @@
+.title {
+    text-align: center;
+}
+
+.chat-content-container {
+    height: 29rem;
+    overflow-y: scroll;
+    border: 1px solid silver;
+}
